@@ -3,7 +3,7 @@
 ## Sobre mim
 
 <p align="center">
-  <img src="https://github.com/arthursobrosa/teste/blob/main/IMG_1533_2-removebg-preview.png" width="400" alt="Arthur Sobrosa image">
+  <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/arhurPhoto.png" width="400" alt="Arthur Sobrosa image">
 </p>
 
 Olá! Meu nome é <b>Arthur Sobrosa</b> e sou um <b>desenvolvedor iOS</b>. Eu também estudo ciências da computação na UFRGS (Brasil). Participo do
