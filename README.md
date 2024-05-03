@@ -32,7 +32,7 @@ Abaixo vou listar alguns dos projetos que participei. Espero que goste!
 
 ## Tasky
 
-<img src="https://github.com/arthursobrosa/teste/blob/main/ResumoTasky.png" width="1000" alt="Imagens do app Tasky">
+<img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/Tasky.png" width="1000" alt="Imagens do app Tasky">
 
 Tasky é um aplicativo de organização e gerenciamento de tarefas dentro de um ambiente familiar. Os usuários podem criar e atribuir tarefas,
 acumular pontos e utilizá-los para resgatar recompensas. Também é possível criar perfis e adentrar uma família, de forma que todos os integrantes
