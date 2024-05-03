@@ -54,7 +54,7 @@ multiplayer e se desafiarem no jogo sem a necessidade de ter um tabuleiro real.
 
 ## Confira a versão para iPhone:
 
-<img src="https://github.com/arthursobrosa/teste/blob/main/ResumoAirChessiPhone.png" width="1000" alt="Imagens de AirChess para iPhone">
+<img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/AirChessiPhone.png" width="1000" alt="Imagens de AirChess para iPhone">
 
 
 ## E a versão para VisionPro:
