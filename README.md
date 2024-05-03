@@ -67,13 +67,13 @@ multiplayer e se desafiarem no jogo sem a necessidade de ter um tabuleiro real.
 
 # Tuco-Tuco
 
-<img src="https://github.com/arthursobrosa/teste/blob/main/ResumoTuco-Tuco.png" width="1000" alt="Imagens do app Tuco-Tuco">
+<img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/Tuco-Tuco.png" width="1000" alt="Imagens do app Tuco-Tuco">
 
 <a href="https://apps.apple.com/br/app/the-tuco-tuco/id6481862059?l=en-GB">Tuco-Tuco</a> é um aplicativo interativo para iPhone que visa conscientizar a preservação de um animal da fauna brasileira que
 está ameaçado de extinção. Esse jogo foi responsável por me fazer um dos vencedores do Swift Student Challenge 2024, e, portanto,
 sempre irei guardá-lo com muito carinho!
 
-<a href="https://www.youtube.com/watch?v=9J21e1M8Oc0">YouTube video link</a>
+<a href="https://www.youtube.com/watch?v=9J21e1M8Oc0">YouTube video</a>
 
 ### Tecnologias utilizadas: SwiftUI e Combine (para gerenciar as animações)
 
