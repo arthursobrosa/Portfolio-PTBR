@@ -45,7 +45,7 @@ possam acompanhar a realização das tarefas de sua casa.
 # AirChess
 
 <p align="center">
-  <img src="https://github.com/arthursobrosa/teste/blob/main/IMG_1631.PNG" width="400" alt="Logo do app AirChess">
+  <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/AirChessLogo.PNG" width="400" alt="Logo do app AirChess">
 </p>
 
 AirChess é um aplicativo de xadrez em realidade aumentada disponível para iPhone e VisionPro. Os usuários podem jogar partidas
