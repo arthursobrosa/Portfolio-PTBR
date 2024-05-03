@@ -59,7 +59,7 @@ multiplayer e se desafiarem no jogo sem a necessidade de ter um tabuleiro real.
 
 ## E a versão para VisionPro:
 
-<img src="https://github.com/arthursobrosa/teste/blob/main/ResumoAirChessVision.png" width="1000" alt="Imagens de AirChess para VisionPro">
+<img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/AirChessVision.png" width="1000" alt="Imagens de AirChess para VisionPro">
 
 ### Tecnologias utilizadas: SwiftUI, UIKit, ARKit e RealityKit (para a realidade aumentada no iPhone), RealityKitContent (para espaços imersvios do VisionPro) e GameKit (para o multiplayer)
 
