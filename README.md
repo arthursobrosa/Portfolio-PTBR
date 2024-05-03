@@ -9,7 +9,7 @@
 Olá! Meu nome é <b>Arthur Sobrosa</b> e sou um <b>desenvolvedor iOS</b>. Eu também estudo ciências da computação na UFRGS (Brasil). Participo do
 programa <b>Apple Developer Academy</b> de Porto Alegre há um ano e tenho buscado acumular conhecimentos nessa área desde então.
 
-Em 2024, fui um dos vencedores do <a href="https://developer.apple.com/swift-student-challenge/">Swift Student Challenge</a>, que premia 300 estudantes
+Em 2024, fui um dos vencedores do <a href="https://developer.apple.com/swift-student-challenge/">Swift Student Challenge</a>, que premia 350 estudantes
 de Swift ao redor do mundo e tal fato tornou-se motivador para que eu continue aprendendo e aprimorando minhas habilidades nessa linguagem.
 
 Tenho familiariedade com <b>SwiftUI</b>, <b>UIKit</b> e alguns outros frameworks nativos, como <b>SpriteKit</b>, <b>GameKit</b>, <b>ARKit</b>, <b>RealityKit</b>, 
