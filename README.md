@@ -74,7 +74,7 @@ multiplayer e se desafiarem no jogo sem a necessidade de ter um tabuleiro real.
 
 Bisca é um jogo de cartas divertido em que os jogadores se desafiam e realizam jogos multiplayer através do Game Center. Além disso, é possível jogar no modo singleplayer e compartilhar a experiência do app no FaceTime e no Messages utilizando a compatibilidade com o SharePlay.
 
-Link para AppStore: <a href="https://apps.apple.com/app/bisca/id6502881813">Biscao</a>
+Link para AppStore: <a href="https://apps.apple.com/app/bisca/id6502881813">Bisca</a>
 
 ### Tecnologias utlizadas: UIKit, GameKit, SpriteKit, View Code
 
