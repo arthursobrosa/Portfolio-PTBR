@@ -70,9 +70,7 @@ multiplayer e se desafiarem no jogo sem a necessidade de ter um tabuleiro real.
 
 # Bisca 
 
-<p align="center">
-  <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/biscaiPhone.png" width="400" alt="Logo do app AirChess">
-</p>
+<img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/biscaiPhone.png" width="1000" alt="Imagens do app Tasky">
 
 Bisca é um jogo de cartas divertido em que os jogadores se desafiam e realizam jogos multiplayer através do Game Center. Além disso, é possível jogar no modo singleplayer e compartilhar a experiência do app no FaceTime e no Messages utilizando a compatibilidade com o SharePlay.
 
