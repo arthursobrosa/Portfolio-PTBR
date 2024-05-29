@@ -86,9 +86,11 @@ Link para AppStore: <a href="https://apps.apple.com/app/bisca/id6502881813">Bisc
 
 <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/Tuco-Tuco.png" width="1000" alt="Imagens do app Tuco-Tuco">
 
-<a href="https://apps.apple.com/br/app/the-tuco-tuco/id6481862059?l=en-GB">Tuco-Tuco</a> é um aplicativo interativo para iPhone que visa conscientizar a preservação de um animal da fauna brasileira que
+Tuco-Tuco é um aplicativo interativo para iPhone que visa conscientizar a preservação de um animal da fauna brasileira que
 está ameaçado de extinção. Esse jogo foi responsável por me fazer um dos vencedores do Swift Student Challenge 2024, e, portanto,
 sempre irei guardá-lo com muito carinho!
+
+Link para AppStore: <a href="https://apps.apple.com/br/app/the-tuco-tuco/id6481862059?l=en-GB">Tuco-Tuco</a>
 
 <a href="https://www.youtube.com/watch?v=9J21e1M8Oc0">YouTube video</a>
 
