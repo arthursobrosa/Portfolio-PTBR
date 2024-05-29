@@ -54,6 +54,8 @@ possam acompanhar a realização das tarefas de sua casa.
 AirChess é um aplicativo de xadrez em realidade aumentada disponível para iPhone e VisionPro. Os usuários podem jogar partidas
 multiplayer e se desafiarem no jogo sem a necessidade de ter um tabuleiro real.
 
+Link para AppStore: <a href="https://apps.apple.com/app/airchess/id6498967964">AirChess</a>
+
 
 ## Confira a versão para iPhone:
 
