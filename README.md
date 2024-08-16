@@ -15,7 +15,12 @@ de Swift ao redor do mundo e tal fato tornou-se motivador para que eu continue a
 Tenho familiariedade com <b>SwiftUI</b>, <b>UIKit</b> e alguns outros frameworks nativos, como <b>SpriteKit</b>, <b>GameKit</b>, <b>ARKit</b>, <b>RealityKit</b>, 
 <b>CoreData</b>, <b>CloudKit</b> e <b>Combine</b>.
 
-Aqui estão os meus contatos:
+Também sou um usuário certificado em desenvolvimento de apps em Swift:
+<p align="center">
+  <img src="https://github.com/arthursobrosa/Portfolio-PTBR/blob/main/portfolio-images/CertifiedUser.png" width="400" alt="Certificado Certified User">
+</p>
+
+E aqui estão os meus contatos:
 <p>
   <a href="https://www.linkedin.com/in/arthur-sobrosa-557013207/">LinkedIn</a>
 </p>
